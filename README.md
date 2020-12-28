@@ -8,10 +8,13 @@
     <img src="https://img.shields.io/github/languages/count/FullBarbosa/home-netflix" alt="">
   </div>
 
+  <br><br>
+
   <img style="width: 800px;" src="/src/image/cloneflix.png" alt="imagem de home do netflix clone">
 </div>
 
-<br>
+<br><br>
+
 <div style="margin-top: 80px;">
   <h2> 🚀 Tecnologias utilizadas no projeto de Clone-Netflix🚀</h2>
   <ul>
