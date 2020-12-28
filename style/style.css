@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+:root{
+  --vermelho:#E50914;
+  --preta:#141414;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+
+
+  /* elementos base */
+}
+
+body{
+  background: var(--preta);
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+
+header .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+header .logo{
+  color: var(--vermelho);
+ 
+  font-size: 58px;
+  margin-left: 5px;
+}
+header nav a{
+  color: #aaa;
+  margin-right: 10px;
+}
+
+header  nav a:hover{
+  color: #fff;
+}
+
+/* coisa realacionadas ao filme */
+
+.filme-principal{
+  font-size: 20px;
+  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0.50)100%), url(../src/image/capa-house.jpg);
+
+  height: 600px;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column  ;
+  justify-content: center;
+  align-items: flex-start;
+
+}
+
+.filme-principal .descricao{
+  margin-bottom: 90px;
+
+}
+
+.titulo{
+  margin-top: 15%;
+  font-family:'Trebuchet MS', Arial, sans-serif;
+  font-size: 40px
+}
+
+
+
+.botao{
+  background-color: rgba(0,0,0, 50%);
+  border: none;
+  color: white;
+  
+  padding: 15px;
+  font-size: 20px;
+  margin-right: 40px;
+
+  cursor: pointer;
+  transition: 2s ease all;
+
+}
+
+.botao:hover{
+  background-color: white;
+  color:rgba(0,0,0, 100%);
+}
+
+.botao i {
+  margin-right: 10px;
+}
+.container{
+  margin-left: 20px;
+}
+
+.filme-principal .container{
+  width: 70%;
+}
+
+.box-filmes{
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+.carrossel-filmes{
+  margin-top: 5px;
+}
