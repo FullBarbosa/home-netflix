@@ -16,7 +16,7 @@
 <br><br>
 
 <div style="margin-top: 80px;">
-  <h2> 🚀 Tecnologias utilizadas no projeto de Clone-Netflix🚀</h2>
+  <h2> 🚀 Tecnologias utilizadas 🚀</h2>
   <ul>
     <li>
       <a href="https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html">Owl Carousel 2</a>
