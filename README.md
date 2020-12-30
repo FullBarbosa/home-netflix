@@ -28,9 +28,8 @@
 </div>
 
 <div>
-  <h3>  
-  <a href="https://home-netflix.vercel.app/">Link do projeto</a>
-  </h3>
+  <h3> 🎥 Projeto </h3>
+  <a href="https://home-netflix.vercel.app/">LINK</a>
 </div>
   
 
