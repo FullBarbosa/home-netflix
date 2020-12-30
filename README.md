@@ -27,7 +27,11 @@
   <p>Totalmente Livre</p>
 </div>
 
-
+<div>
+  <h3> Link do projeto </h3>
+  <a href="https://home-netflix.vercel.app/"></a>
+</div>
+  
 
 
 
